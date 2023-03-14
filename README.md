@@ -1,4 +1,4 @@
-# Ressourcensammlung - Nachhaltige Softwareentwicklung
+## Ressourcensammlung: Nachhaltige Softwareentwicklung
 
 [Green Software Foundation](https://greensoftware.foundation)  
 ![image](https://user-images.githubusercontent.com/7236946/225008280-71c39a42-ddc0-445a-9d91-b2d92a93549e.png)
